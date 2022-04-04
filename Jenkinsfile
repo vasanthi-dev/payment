@@ -6,4 +6,4 @@ env.COMPONENT="payment"
 env.BUILD_LABEL="WORKSTATION"
 
 //library groovy file
-python()
+immutablepython()
